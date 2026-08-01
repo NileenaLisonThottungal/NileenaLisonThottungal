@@ -60,10 +60,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [EDU-DELL](https://github.com/NileenaLisonThottungal/EDUDELL) | AI-powered educational platform with automated quiz generation using FLAN-T5, BERT and WordNet | Flask · FLAN-T5 · BERT · spaCy |
-| [US Accidents Dashboard](https://github.com/NileenaLisonThottungal/US_ACCIDENTS) | Interactive analytics dashboard on 1.5M+ records with Phi LLM chatbot | Dash · Plotly · Phi LLM · Pandas |
-| [Sales Dashboard & Analyticart](https://github.com/NileenaLisonThottungal/SALES-DASHBOARD-AND-INVENTORY-MANAGEMENT) | Dual retail analytics platform with XGBoost restock prediction | Streamlit · XGBoost · Gradient Boosting |
-| [Analyticart E-commerce](https://github.com/NileenaLisonThottungal/livedata) | Full e-commerce platform with real-time transaction tracking and AI demand forecasting | Streamlit · XGBoost · Pandas |
+| [Medical Triage Agent](https://github.com/NileenaLisonThottungal/medical-triage-agent) | Security-reviewed, tested 8-node agentic system giving free medical triage guidance | Google ADK · MCP · FastAPI · React |
+| [EDU-DELL](https://github.com/NileenaLisonThottungal/EDU-DELL-AI-Powered-Educational-Platform-for-Automated-Content-Extraction-and-Assessment-Generation) | Published (Springer, SmartCom 2026) AI-powered assessment generation platform | Flask · FLAN-T5 · BERT · spaCy |
+| [Analyticart](https://github.com/NileenaLisonThottungal/Analyticart) | Unified storefront + admin dashboard with shared XGBoost demand-forecasting engine | Streamlit · XGBoost · SQLite |
+| [LearnMate](https://github.com/NileenaLisonThottungal/LEARNMATE) | Document-to-quiz study companion with semantic answer evaluation | FastAPI · FLAN-T5 · MongoDB |
+| [Stormkeeper](https://github.com/NileenaLisonThottungal/stormkeeper) | From-scratch stochastic RL environment and policy-gradient agent, zero dependencies | JavaScript · Reinforcement Learning |
+| [US Accidents Dashboard](https://github.com/NileenaLisonThottungal/US-ACCIDENT-ANALYSIS) | Interactive analytics dashboard on 1.5M+ records with Phi LLM chatbot | Dash · Plotly · Phi LLM |
+| [AI Engineering Notebook](https://github.com/NileenaLisonThottungal/AI-Engineering-Notebook) | Ongoing learning journal — MCP, agentic AI, local LLM development | Ollama · MCP · Agentic AI |
 
 ---
 
