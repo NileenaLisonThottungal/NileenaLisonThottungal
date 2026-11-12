@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nileena+Lison+👋;Junior+AI+Engineer;NLP+·+RAG+·+LLMs+·+FastAPI;Honours+Graduate+in+AI+%26+DS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nileena+Lison+👋;Junior+AI+Engineer;Agentic+AI+·+MCP+·+RAG+·+LLMs;Honours+Graduate+in+AI+%26+DS" alt="Typing SVG" />
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-- 🤖 Junior AI Engineer at **ThreatsView** — building RAG pipelines, LLM-powered assistants and document intelligence systems for cybersecurity
+- 🤖 Junior AI Engineer at **ThreatsView** — building RAG pipelines, MCP tools, policy review and document intelligence systems for cybersecurity and compliance
 - 🎓 **BTech with Honours** in Artificial Intelligence & Data Science — Rajagiri School of Engineering & Technology
-- 📄 **First-author researcher** — paper accepted at SmartCom 2026, Springer Proceedings
+- 📄 **First-author researcher** — paper published at SmartCom 2026 (Springer) — [read it](https://link.springer.com/chapter/10.1007/978-3-032-27563-9_21)
 - 🌍 Based in **Doha, Qatar**
 - 💡 Passionate about NLP, Retrieval-Augmented Generation and building real-world AI systems
 
@@ -29,6 +29,9 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -39,11 +42,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Vector DBs & RAG**
+**Vector DBs & Databases**
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data & Visualization**
 
@@ -58,7 +61,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Medical Triage Agent](https://github.com/NileenaLisonThottungal/medical-triage-agent) | Security-reviewed, tested 8-node agentic system giving free medical triage guidance | Google ADK · MCP · FastAPI · React |
+| [Medical Triage Agent](https://github.com/NileenaLisonThottungal/medical-triage-agent) | Security-reviewed, tested 8-node agentic system giving free medical triage guidance ([demo video](https://youtu.be/lmZ2f5r2-Fo)) | Google ADK · MCP · FastAPI · React |
 | [EDU-DELL](https://github.com/NileenaLisonThottungal/EDU-DELL-AI-Powered-Educational-Platform-for-Automated-Content-Extraction-and-Assessment-Generation) | Published (Springer, SmartCom 2026) AI-powered assessment generation platform | Flask · FLAN-T5 · BERT · spaCy |
 | [Analyticart](https://github.com/NileenaLisonThottungal/Analyticart) | Unified storefront + admin dashboard with shared XGBoost demand-forecasting engine | Streamlit · XGBoost · SQLite |
 | [LearnMate](https://github.com/NileenaLisonThottungal/LEARNMATE) | Document-to-quiz study companion with semantic answer evaluation | FastAPI · FLAN-T5 · MongoDB |
@@ -80,7 +83,7 @@
 
 ## 🏆 Highlights
 
-- 📌 First-author paper accepted at **SmartCom 2026** — Springer Proceedings (to be published)
+- 📌 First-author paper published at **SmartCom 2026** — Springer, Lecture Notes in Networks and Systems
 - 🎓 **BTech with Honours** in AI & Data Science — 8.67 CGPA
 - 🏅 **1st Prize** — IEEE Poster Design Competition
 - 💼 Promoted from AI Intern → **Full-time AI Engineer** at ThreatsView
